@@ -105,8 +105,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWUBLATP
 
+[ProjectVariant1]
+UniqueID=32E9A1A1-7483-4184-8C2F-59A01799E94D
+Description=LED do not fitted
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=L2|UniqueId=\SJCQCRXY|Kind=1|AlternatePart= 
+Variation2=Designator=R2|UniqueId=\APIYJWSA|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=PCB1 25-05-2020 10-43-43.WAS
 DItemRevisionGUID=
 
 [Configuration1]
