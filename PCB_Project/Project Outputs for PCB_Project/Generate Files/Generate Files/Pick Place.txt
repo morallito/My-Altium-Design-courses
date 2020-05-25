@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Iagoh\Documents\Courses\Altium Design Udemy\altiumDesignerCourse1\PCB_Project\Project Outputs for PCB_Project\Generate Files\Generate Files\Pick Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/05/20
+Time:       14:40
+Revision:   bb2d39460ce07080b28b66eaa03cb946af631c8e
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                             Categorie       
+R2         360R         TopLayer R0805     2283.465      3129.921      0        "Res Thick Film 0805 360 Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R" Resistors       
+R1         360R         TopLayer R0805     2283.465      2913.386      0        "Res Thick Film 0805 360 Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R" Resistors       
+L2         LED          TopLayer LED       2086.614      3129.921      180      "CHIPLED, 0603, BLUE, 11.5MCD, 470NM"                                                   Optoelectronics 
+L1         LED          TopLayer LED       2086.614      2913.386      180      "CHIPLED, 0603, BLUE, 11.5MCD, 470NM"                                                   Optoelectronics 
+J1         "1x2 Header" TopLayer HEADER1X2 2185.039      3405.512      90       "Connector Wire to Board Header 2 Position 2.54mm Solder Stra"                          ""              
